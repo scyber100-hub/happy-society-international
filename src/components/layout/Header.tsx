@@ -20,6 +20,7 @@ export default function Header() {
     { href: '/declaration', label: t('declaration') },
     { href: '/platform', label: t('platform') },
     { href: '/chapters', label: t('chapters') },
+    { href: '/anthem', label: t('anthem') },
     { href: '/join', label: t('join') },
   ];
 
@@ -35,13 +36,13 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/logo.svg"
+              src="/logo.png"
               alt="Happy Society International"
               width={44}
               height={44}
               className="w-11 h-11"
             />
-            <span className="font-bold text-lg text-[var(--gray-900)] hidden sm:block">
+            <span className="font-bold text-sm sm:text-lg text-[var(--gray-900)]">
               Happy Society
             </span>
           </Link>

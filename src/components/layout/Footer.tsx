@@ -85,11 +85,11 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <Image
-                src="/logo.svg"
+                src="/logo-circle.png"
                 alt="Happy Society International"
                 width={40}
                 height={40}
-                className="w-10 h-10"
+                className="w-10 h-10 rounded-full"
               />
               <span className="font-bold text-lg">Happy Society</span>
             </div>

@@ -1,232 +1,240 @@
 {
   "metadata": {
-    "title": "Happy Society International",
-    "description": "A global progressive movement for a society where everyone lives with dignity"
+    "title": "幸福社会国际",
+    "description": "一个致力于让每个人都能有尊严地生活的全球进步运动"
   },
   "nav": {
-    "home": "Home",
-    "declaration": "Declaration",
-    "platform": "Platform",
-    "chapters": "Chapters",
-    "join": "Join Us",
-    "contact": "Contact"
+    "home": "首页",
+    "declaration": "宣言",
+    "platform": "纲领",
+    "chapters": "分部",
+    "join": "加入我们",
+    "contact": "联系",
+    "anthem": "团结之歌"
   },
   "hero": {
-    "title": "Citizens of the World",
-    "subtitle": "Unite!",
-    "description": "War, climate crisis, and inequality do not ask for passports. We respond to problems that cross borders through solidarity that crosses borders.",
-    "joinButton": "Join the Movement",
-    "learnMore": "Learn More"
+    "title": "全世界公民",
+    "subtitle": "团结起来！",
+    "description": "战争、气候危机和不平等不需要护照。我们以跨越国界的团结来应对跨越国界的问题。",
+    "joinButton": "加入运动",
+    "learnMore": "了解更多"
   },
   "values": {
-    "title": "Our Core Values",
-    "subtitle": "The principles that unite us across borders",
+    "title": "我们的核心价值观",
+    "subtitle": "跨越国界团结我们的原则",
     "cooperation": {
-      "title": "Invest in Peace",
-      "description": "We pursue international politics that invests in peace, not war."
+      "title": "投资和平",
+      "description": "我们追求投资于和平而非战争的国际政治。"
     },
     "happiness": {
-      "title": "Cooperation-Based Economy",
-      "description": "We build a world economy based on cooperation, not competition."
+      "title": "合作型经济",
+      "description": "我们建设以合作而非竞争为基础的世界经济。"
     },
     "dignity": {
-      "title": "Safety Over Growth",
-      "description": "We propose development models that prioritize life's safety over growth."
+      "title": "安全优先于增长",
+      "description": "我们提出优先保障生命安全而非增长的发展模式。"
     },
     "democracy": {
-      "title": "Expanded Democracy",
-      "description": "We realize democracy where citizens unite beyond nationality."
+      "title": "扩大民主",
+      "description": "我们实现公民跨越国籍团结的民主。"
     },
     "publicGoods": {
-      "title": "Climate as Public Responsibility",
-      "description": "We create international norms that treat climate as a public responsibility."
+      "title": "气候作为公共责任",
+      "description": "我们创建将气候视为公共责任的国际规范。"
     },
     "technology": {
-      "title": "Democratic Control of Technology",
-      "description": "We establish international norms that treat technology as a public responsibility."
+      "title": "技术的民主控制",
+      "description": "我们建立将技术视为公共责任的国际规范。"
     }
   },
   "declaration": {
-    "title": "International Founding Declaration",
-    "subtitle": "A Declaration Toward Global Solidarity",
-    "slogan": "Citizens of the world, unite!",
-    "intro": "We hold citizenship, yet life's anxieties do not ask about borders, and war, climate, and inequality do not demand passports.\n\nToday's world is connected as one, yet justice remains fragmented; wealth moves freely, but human dignity stops at borders.\n\nWe declare a new political resolve in this age of contradiction.",
+    "title": "国际创立宣言",
+    "subtitle": "走向全球团结的宣言",
+    "slogan": "全世界公民，团结起来！",
+    "intro": "我们拥有公民身份，但生活的焦虑不问国界，战争、气候和不平等不需要护照。\n\n今天的世界连为一体，但正义仍然分裂；财富自由流动，但人的尊严止于国界。\n\n我们在这个矛盾的时代宣告新的政治决心。",
     "sections": {
       "section1": {
-        "title": "1. The World Is Connected, But Responsibility Is Not",
-        "content": "War begins at borders, but suffering spreads across the world. Climate crisis is not a problem of any particular nation, yet its damage always concentrates on the poorest.\n\nMilitary spending expands, but peace has not been a subject of investment; under the name of national interest, citizens' lives have been reduced to calculations.\n\nToday's international order speaks of peace yet is maintained through war, speaks of human rights yet neglects inequality.\n\nFurther silence in this order is complicity."
+        "title": "1. 世界相连，但责任没有",
+        "content": "战争始于边界，但苦难蔓延全球。气候危机不是任何特定国家的问题，但其损害总是集中在最贫困的地方。\n\n军事开支扩大，但和平从未成为投资对象；以国家利益之名，公民的生命被简化为计算。\n\n今天的国际秩序谈论和平却靠战争维持，谈论人权却忽视不平等。\n\n在这种秩序中继续沉默就是同谋。"
       },
       "section2": {
-        "title": "2. War Is the Result of Failed Politics",
-        "content": "War is not an inevitable natural disaster. It is the result of politics that failed to negotiate, economics that failed to distribute, and an international order that abandoned dignity.\n\nAs long as we believe that increasing weapons strengthens security, peace will always be postponed to the next generation.\n\nThe Happy Society Party declares:\nTrue security comes not from the size of military power, but from conditions that make people not want war.\nPolitics that speaks of peace while neglecting poverty, discrimination, resource monopoly, and climate destruction is false."
+        "title": "2. 战争是失败政治的结果",
+        "content": "战争不是不可避免的自然灾害。它是未能谈判的政治、未能分配的经济、抛弃尊严的国际秩序的结果。\n\n只要我们相信增加武器能加强安全，和平就将永远推迟到下一代。\n\n幸福社会党宣言：\n真正的安全不是来自军事力量的大小，而是来自使人们不想要战争的条件。\n谈论和平却忽视贫困、歧视、资源垄断和气候破坏的政治是虚假的。"
       },
       "section3": {
-        "title": "3. Global Inequality Is a Global Problem",
-        "content": "Today's world is structured so that inequality between nations and inequality within nations reinforce each other.\n\nTransnational capital crosses borders, but labor and rights are tied to borders; platforms and AI integrate the world, but profits concentrate in the hands of a few.\n\nThis inequality is not one nation's policy failure but a global political failure.\nTherefore, solutions must not remain at the national level."
+        "title": "3. 全球不平等是全球问题",
+        "content": "今天的世界结构使国家之间的不平等和国家内部的不平等相互强化。\n\n跨国资本跨越国界，但劳动和权利被束缚于国界；平台和人工智能整合世界，但利润集中在少数人手中。\n\n这种不平等不是一个国家的政策失败，而是全球政治失败。\n因此，解决方案不能停留在国家层面。"
       },
       "section4": {
-        "title": "4. Climate Crisis Is Humanity's Common Survival Issue",
-        "content": "The climate crisis is not an environmental problem but a matter of survival, and a matter of justice.\nThe nations and corporations that destroyed the climate are separate, but the damage is borne by future generations and impoverished regions.\n\nThe Happy Society Party says:\nResponsibility for the climate crisis lies not in individual restraint but in the transformation of political and industrial structures.\nWithout global carbon reduction, public management of renewable energy, and international solidarity and compensation for climate damage, no nation can be safe."
+        "title": "4. 气候危机是人类共同的生存问题",
+        "content": "气候危机不是环境问题，而是生存问题，是正义问题。\n破坏气候的国家和企业是分开的，但损害由后代和贫困地区承担。\n\n幸福社会党说：\n气候危机的责任不在于个人节制，而在于政治和产业结构的转型。\n没有全球碳减排、可再生能源的公共管理、以及对气候损害的国际团结和补偿，任何国家都不能安全。"
       },
       "section5": {
-        "title": "5. Technology Connects Humanity, But Control Has Disappeared",
-        "content": "AI and automation have spread beyond borders, but their control and responsibility remain vacant.\nThe more technology replaces labor, the more unstable citizens' lives have become, and international norms have not kept pace with technology's speed.\n\nThe Happy Society Party declares:\nTechnology should not be the exclusive property of nations or corporations but humanity's common asset.\nInternational democratic control over AI, data, and platforms and technology norms centered on labor and human rights are needed right now."
+        "title": "5. 技术连接人类，但控制消失了",
+        "content": "人工智能和自动化已跨越国界传播，但其控制和责任仍然空缺。\n技术越多地取代劳动，公民的生活就越不稳定，国际规范也没有跟上技术的速度。\n\n幸福社会党宣言：\n技术不应是国家或企业的专有财产，而是人类的共同资产。\n对人工智能、数据和平台的国际民主控制以及以劳动和人权为中心的技术规范现在就需要。"
       },
       "section6": {
-        "title": "6. The Global Alternative Proposed by Happy Society Party",
-        "content": "The Happy Society Party is not a party representing any one nation's interests, but an international progressive party that unites based on citizens' dignity.\n\nWe pursue:\n• International politics that invests in peace, not war\n• A world economy based on cooperation, not competition\n• Development models that prioritize life's safety over growth\n• International norms that treat climate and technology as public responsibilities\n• Democracy where citizens unite beyond nationality\n\nHappiness cannot be confined within borders, and dignity cannot be divided by passports."
+        "title": "6. 幸福社会党提出的全球替代方案",
+        "content": "幸福社会党不是代表任何一个国家利益的政党，而是基于公民尊严团结的国际进步政党。\n\n我们追求：\n• 投资于和平而非战争的国际政治\n• 以合作而非竞争为基础的世界经济\n• 优先保障生命安全而非增长的发展模式\n• 将气候和技术视为公共责任的国际规范\n• 公民跨越国籍团结的民主\n\n幸福不能被限制在国界内，尊严不能被护照分割。"
       }
     },
     "conclusion": {
-      "title": "Conclusion — Our International Declaration",
-      "content": "Citizens of the world, unite!\n\nThis declaration is not for any one nation but a declaration for surviving together.\n\nTo end the age of war, to transcend the order of inequality, to stop the time of climate collapse, to prevent technology from dominating humans, we begin a new progressive politics.\n\nThe Happy Society Party will respond to problems that cross borders through solidarity that crosses borders.\n\nWe do not ask, \"Which nation is strong?\"\nWe ask, \"Can humanity live together?\"\n\nThe declaration to answer this question through politics—that is the Happy Society Party's International Founding Declaration."
+      "title": "结论 — 我们的国际宣言",
+      "content": "全世界公民，团结起来！\n\n这份宣言不是为任何一个国家，而是为共同生存的宣言。\n\n为了结束战争时代，超越不平等秩序，停止气候崩溃的时间，防止技术支配人类，我们开始新的进步政治。\n\n幸福社会党将以跨越国界的团结来应对跨越国界的问题。\n\n我们不问'哪个国家强大？'\n我们问'人类能否共同生活？'\n\n通过政治来回答这个问题的宣言——这就是幸福社会党的国际创立宣言。"
     }
   },
   "platform": {
-    "title": "International Common Platform",
-    "subtitle": "International Common Platform for Progressive Parties",
+    "title": "国际共同纲领",
+    "subtitle": "进步政党的国际共同纲领",
     "preamble": {
-      "title": "Preamble",
-      "content": "Citizens of the world, unite!\n\nToday, humanity stands before problems that cross borders. War and peace, climate crisis, technology control, inequality, and the retreat of democracy are problems that cannot be solved by any one nation's power alone.\n\nYet politics remains confined within borders, and citizens' suffering is pushed to the periphery of the international order.\n\nWe declare the common foundation of a new progressive politics where citizens of each country become the protagonists, each country's party decides autonomously, and solidarity is global.\n\nThis platform is not a document for creating one central party, but common values and principles of action that local parties in each country can share."
+      "title": "序言",
+      "content": "全世界公民，团结起来！\n\n今天，人类面临跨越国界的问题。战争与和平、气候危机、技术控制、不平等和民主倒退是任何一个国家的力量都无法单独解决的问题。\n\n然而政治仍被限制在国界内，公民的苦难被推到国际秩序的边缘。\n\n我们宣告新进步政治的共同基础，在这里各国公民成为主角，各国政党自主决定，团结是全球性的。\n\n这份纲领不是创建一个中央政党的文件，而是各国地方政党可以共享的共同价值观和行动原则。"
     },
     "articles": {
       "article1": {
-        "title": "Article 1 — Human Dignity Transcends Borders",
-        "content": "All human beings have the right to live with dignity regardless of nationality, race, gender, religion, class, or immigration status.\n\nCitizens' dignity cannot be a means for national interest or economic growth.\n\nParties in each country place the standard of policy and institutions not on efficiency but on human life and safety."
+        "title": "第一条 — 人的尊严超越国界",
+        "content": "所有人都有权有尊严地生活，不论国籍、种族、性别、宗教、阶级或移民身份。\n\n公民的尊严不能成为国家利益或经济增长的手段。\n\n各国政党将政策和制度的标准不是放在效率上，而是放在人的生命和安全上。"
       },
       "article2": {
-        "title": "Article 2 — War Is the Failure of Politics, Peace Is the Responsibility of Politics",
-        "content": "War is not inevitable fate but the accumulated result of inequality, exclusion, and diplomatic failure.\n\nTrue security comes not from military buildup but from politics that removes the conditions for war.",
+        "title": "第二条 — 战争是政治的失败，和平是政治的责任",
+        "content": "战争不是不可避免的命运，而是不平等、排斥和外交失败的累积结果。\n\n真正的安全不是来自军事建设，而是来自消除战争条件的政治。",
         "principles": [
-          "Minimization of use of force",
-          "Priority on diplomacy, mediation, and multilateral cooperation",
-          "Opposition to arms race",
-          "Protection of civilians and compliance with international human rights standards"
+          "最小化使用武力",
+          "优先外交、调解和多边合作",
+          "反对军备竞赛",
+          "保护平民和遵守国际人权标准"
         ]
       },
       "article3": {
-        "title": "Article 3 — Climate Crisis Is a Matter of Survival and Justice",
-        "content": "The climate crisis is not an environmental issue but humanity's common survival crisis.\n\nResponsibility for the climate crisis lies not with individuals but with industrial structures and political choices.",
+        "title": "第三条 — 气候危机是生存和正义的问题",
+        "content": "气候危机不是环境问题，而是人类共同的生存危机。\n\n气候危机的责任不在于个人，而在于产业结构和政治选择。",
         "principles": [
-          "Legally binding carbon reduction targets",
-          "Strengthening the public nature of renewable energy",
-          "International solidarity and compensation for climate damage",
-          "Protection of workers and regions in the transition process"
+          "具有法律约束力的碳减排目标",
+          "加强可再生能源的公共性",
+          "对气候损害的国际团结和补偿",
+          "保护转型过程中的工人和地区"
         ]
       },
       "article4": {
-        "title": "Article 4 — Joint Response to Global Inequality",
-        "content": "Transnational capital and platforms cross borders, but labor and rights remain restricted.\n\nInequality is both a domestic issue and a global structural problem.",
+        "title": "第四条 — 共同应对全球不平等",
+        "content": "跨国资本和平台跨越国界，但劳动和权利仍受限制。\n\n不平等既是国内问题也是全球结构性问题。",
         "principles": [
-          "Fair taxation and international cooperation to prevent tax avoidance",
-          "Establishing international minimum standards for labor rights",
-          "Universal access to social safety nets"
+          "公平税收和防止避税的国际合作",
+          "建立劳动权利的国际最低标准",
+          "普遍获得社会安全网"
         ]
       },
       "article5": {
-        "title": "Article 5 — Technology Is Humanity's Asset and Must Be Democratically Controlled",
-        "content": "AI, data, and automation technologies are public technologies that affect all of humanity's life.\n\nThe benefits of technological development must not be concentrated in a few corporations and nations.",
+        "title": "第五条 — 技术是人类的资产，必须民主控制",
+        "content": "人工智能、数据和自动化技术是影响全人类生活的公共技术。\n\n技术发展的好处不能集中在少数企业和国家手中。",
         "principles": [
-          "Prohibition of algorithmic discrimination",
-          "Data sovereignty and personal information protection",
-          "Labor protection from technological transition",
-          "Establishing international norms for AI and platforms"
+          "禁止算法歧视",
+          "数据主权和个人信息保护",
+          "技术转型中的劳动保护",
+          "建立人工智能和平台的国际规范"
         ]
       },
       "article6": {
-        "title": "Article 6 — Democracy Must Be Everyday Life Beyond Elections",
-        "content": "Democracy does not end with voting.\n\nCitizens are not consumers or spectators but continuous protagonists of politics.",
+        "title": "第六条 — 民主必须是超越选举的日常生活",
+        "content": "民主不以投票结束。\n\n公民不是消费者或旁观者，而是政治的持续主角。",
         "principles": [
-          "Expansion of citizen participation",
-          "Transparent decision-making",
-          "Decentralization of power and accountability",
-          "Firm rejection of hatred and discrimination"
+          "扩大公民参与",
+          "透明决策",
+          "权力分散和问责",
+          "坚决拒绝仇恨和歧视"
         ]
       },
       "article7": {
-        "title": "Article 7 — Solidarity Is Autonomous Cooperation, Not Obedience",
-        "content": "This platform does not deny each country's history and conditions.\n\nEach local party autonomously organizes policies and organizations suited to its country's reality based on this common platform.\n\nInternational solidarity is not a command system but a network of experience sharing and joint action."
+        "title": "第七条 — 团结是自主合作，不是服从",
+        "content": "这份纲领不否认各国的历史和条件。\n\n各地方政党基于这份共同纲领，自主组织适合本国现实的政策和组织。\n\n国际团结不是命令系统，而是经验共享和共同行动的网络。"
       }
     },
     "appendix": {
-      "title": "Appendix — Principles of the International Progressive Party Network",
+      "title": "附录 — 国际进步政党网络原则",
       "principles": [
-        "We do not create a single central power.",
-        "We respect parties where citizens of each country are the protagonists.",
-        "We treat war, inequality, climate collapse, and technology monopoly as common political agendas.",
-        "We organize joint statements, joint campaigns, and joint actions when needed."
+        "我们不创建单一的中央权力。",
+        "我们尊重各国公民作为主角的政党。",
+        "我们将战争、不平等、气候崩溃和技术垄断视为共同的政治议程。",
+        "我们在需要时组织联合声明、联合运动和联合行动。"
       ]
     },
     "conclusion": {
-      "title": "Conclusion",
-      "content": "Happiness is not the privilege of any one nation, and dignity cannot be divided by borders.\n\nThis international platform is not a completed answer but a promise to create answers together.\n\nCitizens of each country, progressive parties of each country, let us unite in solidarity before our common responsibility while respecting each other's differences.\n\nCitizens of the world, unite!"
+      "title": "结论",
+      "content": "幸福不是任何一个国家的特权，尊严不能被国界分割。\n\n这份国际纲领不是完成的答案，而是共同创造答案的承诺。\n\n各国公民，各国进步政党，让我们在尊重彼此差异的同时，在共同责任面前团结。\n\n全世界公民，团结起来！"
     }
   },
   "chapters": {
-    "title": "Global Chapters",
-    "subtitle": "Join or start a chapter in your country",
-    "established": "Established",
-    "forming": "Forming",
-    "startChapter": "Start a Chapter",
-    "startChapterDesc": "Don't see your country? You can help bring the Happy Society movement to your nation.",
-    "learnHow": "Learn How",
+    "title": "全球分部",
+    "subtitle": "加入或在你的国家创建分部",
+    "established": "已建立",
+    "forming": "筹建中",
+    "startChapter": "创建分部",
+    "startChapterDesc": "没有看到你的国家？你可以帮助将幸福社会运动带到你的国家。",
+    "learnHow": "了解方法",
     "korea": {
-      "name": "South Korea",
-      "status": "Founding Chapter",
-      "description": "The birthplace of the Happy Society movement, leading the way for progressive politics in East Asia."
+      "name": "韩国",
+      "status": "创始分部",
+      "description": "幸福社会运动的发源地，引领东亚进步政治。"
     }
   },
   "join": {
-    "title": "Join the Movement",
-    "subtitle": "Together, we can build a happier world",
+    "title": "加入运动",
+    "subtitle": "一起，我们可以建设一个更幸福的世界",
     "individual": {
-      "title": "Individual Membership",
-      "description": "Support our movement and connect with like-minded progressives worldwide.",
+      "title": "个人会员",
+      "description": "支持我们的运动，与全球志同道合的进步人士联系。",
       "benefits": [
-        "Access to international events and conferences",
-        "Connect with members across the globe",
-        "Receive updates on global progressive movements",
-        "Participate in policy discussions"
+        "参加国际活动和会议",
+        "与全球会员联系",
+        "接收全球进步运动的更新",
+        "参与政策讨论"
       ],
-      "button": "Join as Individual"
+      "button": "以个人身份加入"
     },
     "chapter": {
-      "title": "Start a Chapter",
-      "description": "Bring the Happy Society movement to your country and build a progressive party.",
+      "title": "创建分部",
+      "description": "将幸福社会运动带到你的国家，建立进步政党。",
       "steps": [
-        "Connect with our international coordination team",
-        "Build a founding committee in your country",
-        "Develop localized platform and declaration",
-        "Launch your national Happy Society party"
+        "联系我们的国际协调团队",
+        "在你的国家建立创始委员会",
+        "制定本地化的纲领和宣言",
+        "启动你国家的幸福社会党"
       ],
-      "button": "Start a Chapter"
+      "button": "创建分部"
     },
     "partner": {
-      "title": "Partner Organization",
-      "description": "Collaborate with us as a progressive party, union, or civil society organization.",
-      "button": "Become a Partner"
+      "title": "合作组织",
+      "description": "作为进步政党、工会或公民社会组织与我们合作。",
+      "button": "成为合作伙伴"
     }
   },
   "footer": {
-    "tagline": "Building a world where everyone lives with dignity",
-    "about": "About",
-    "aboutUs": "About Us",
-    "declaration": "Declaration",
-    "platform": "Platform",
-    "getInvolved": "Get Involved",
-    "join": "Join Us",
-    "chapters": "Find a Chapter",
-    "donate": "Donate",
-    "connect": "Connect",
-    "contact": "Contact",
-    "newsletter": "Newsletter",
-    "press": "Press",
-    "copyright": "© 2024 Happy Society International. All rights reserved.",
-    "solidarity": "In solidarity with progressive movements worldwide."
+    "tagline": "建设一个人人都能有尊严地生活的世界",
+    "about": "关于",
+    "aboutUs": "关于我们",
+    "declaration": "宣言",
+    "platform": "纲领",
+    "getInvolved": "参与",
+    "join": "加入我们",
+    "chapters": "寻找分部",
+    "donate": "捐赠",
+    "connect": "联系",
+    "contact": "联系方式",
+    "newsletter": "通讯",
+    "press": "新闻",
+    "copyright": "© 2024 幸福社会国际。保留所有权利。",
+    "solidarity": "与全球进步运动团结一致。"
   },
   "cta": {
-    "title": "Ready to Join the Movement?",
-    "description": "Together, we can build societies where everyone—not just the wealthy and powerful—can live with dignity and happiness.",
-    "button": "Get Started"
+    "title": "准备好加入运动了吗？",
+    "description": "一起，我们可以建设这样的社会：每个人——不只是富人和权贵——都能有尊严和幸福地生活。",
+    "button": "开始"
+  },
+  "anthem": {
+    "title": "国际团结之歌",
+    "subtitle": "全世界公民，团结起来！",
+    "playButton": "播放",
+    "pauseButton": "暂停",
+    "lyrics": "国境在地图上被画出\n但我们的生活没有界线\n战争的火焰，气候的风\n贫困和不安不问国籍\n\n以增长之名被推开的人们\n以竞争之名消失的面孔\n有人拥有太多\n有人只能梦想活下去\n\n全世界公民，团结起来\n以比恐惧更伟大的我们之名\n全世界公民，团结起来\n因为尊严跨越国界\n\n为了没有战争的今天\n为了幸福不是特权的世界\n我们在这里，一起歌唱\n承诺不放开彼此的手"
   }
 }

@@ -9,7 +9,8 @@
     "platform": "Platform",
     "chapters": "Chapters",
     "join": "Join Us",
-    "contact": "Contact"
+    "contact": "Contact",
+    "anthem": "Anthem"
   },
   "hero": {
     "title": "Citizens of the World",
@@ -219,6 +220,7 @@
     "donate": "Donate",
     "connect": "Connect",
     "contact": "Contact",
+    "anthem": "Anthem",
     "newsletter": "Newsletter",
     "press": "Press",
     "copyright": "© 2024 Happy Society International. All rights reserved.",
@@ -228,5 +230,12 @@
     "title": "Ready to Join the Movement?",
     "description": "Together, we can build societies where everyone—not just the wealthy and powerful—can live with dignity and happiness.",
     "button": "Get Started"
+  },
+  "anthem": {
+    "title": "International Solidarity Anthem",
+    "subtitle": "Citizens of the World, Unite!",
+    "playButton": "Play",
+    "pauseButton": "Pause",
+    "lyrics": "Borders were drawn upon the map\nBut in our lives, there were no lines\nThe flames of war, the winds of climate\nPoverty and fear asked not for nationality\n\nPeople pushed aside in the name of growth\nFaces erased in the name of competition\nSome possessed far too much\nWhile for others, survival became their only dream\n\nCitizens of the world, unite!\nIn a name greater than our fears\nCitizens of the world, unite!\nFor dignity crosses all borders\n\nFor a today without war\nFor a world where happiness is not a privilege\nWe sing here, together\nPromising never to let go of each other's hands"
   }
 }

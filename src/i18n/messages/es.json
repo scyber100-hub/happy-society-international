@@ -1,232 +1,241 @@
 {
   "metadata": {
-    "title": "Happy Society International",
-    "description": "A global progressive movement for a society where everyone lives with dignity"
+    "title": "Sociedad Feliz Internacional",
+    "description": "Un movimiento progresista global por una sociedad donde todos vivan con dignidad"
   },
   "nav": {
-    "home": "Home",
-    "declaration": "Declaration",
-    "platform": "Platform",
-    "chapters": "Chapters",
-    "join": "Join Us",
-    "contact": "Contact"
+    "home": "Inicio",
+    "declaration": "Declaración",
+    "platform": "Plataforma",
+    "chapters": "Capítulos",
+    "join": "Únete",
+    "contact": "Contacto",
+    "anthem": "Himno"
   },
   "hero": {
-    "title": "Citizens of the World",
-    "subtitle": "Unite!",
-    "description": "War, climate crisis, and inequality do not ask for passports. We respond to problems that cross borders through solidarity that crosses borders.",
-    "joinButton": "Join the Movement",
-    "learnMore": "Learn More"
+    "title": "Ciudadanos del Mundo",
+    "subtitle": "¡Uníos!",
+    "description": "La guerra, la crisis climática y la desigualdad no piden pasaportes. Respondemos a los problemas que cruzan fronteras con solidaridad que cruza fronteras.",
+    "joinButton": "Únete al Movimiento",
+    "learnMore": "Más Información"
   },
   "values": {
-    "title": "Our Core Values",
-    "subtitle": "The principles that unite us across borders",
+    "title": "Nuestros Valores Fundamentales",
+    "subtitle": "Los principios que nos unen más allá de las fronteras",
     "cooperation": {
-      "title": "Invest in Peace",
-      "description": "We pursue international politics that invests in peace, not war."
+      "title": "Invertir en la Paz",
+      "description": "Buscamos una política internacional que invierta en la paz, no en la guerra."
     },
     "happiness": {
-      "title": "Cooperation-Based Economy",
-      "description": "We build a world economy based on cooperation, not competition."
+      "title": "Economía Basada en la Cooperación",
+      "description": "Construimos una economía mundial basada en la cooperación, no en la competencia."
     },
     "dignity": {
-      "title": "Safety Over Growth",
-      "description": "We propose development models that prioritize life's safety over growth."
+      "title": "Seguridad Antes que Crecimiento",
+      "description": "Proponemos modelos de desarrollo que priorizan la seguridad de la vida sobre el crecimiento."
     },
     "democracy": {
-      "title": "Expanded Democracy",
-      "description": "We realize democracy where citizens unite beyond nationality."
+      "title": "Democracia Ampliada",
+      "description": "Realizamos una democracia donde los ciudadanos se unen más allá de la nacionalidad."
     },
     "publicGoods": {
-      "title": "Climate as Public Responsibility",
-      "description": "We create international norms that treat climate as a public responsibility."
+      "title": "El Clima como Responsabilidad Pública",
+      "description": "Creamos normas internacionales que tratan el clima como una responsabilidad pública."
     },
     "technology": {
-      "title": "Democratic Control of Technology",
-      "description": "We establish international norms that treat technology as a public responsibility."
+      "title": "Control Democrático de la Tecnología",
+      "description": "Establecemos normas internacionales que tratan la tecnología como una responsabilidad pública."
     }
   },
   "declaration": {
-    "title": "International Founding Declaration",
-    "subtitle": "A Declaration Toward Global Solidarity",
-    "slogan": "Citizens of the world, unite!",
-    "intro": "We hold citizenship, yet life's anxieties do not ask about borders, and war, climate, and inequality do not demand passports.\n\nToday's world is connected as one, yet justice remains fragmented; wealth moves freely, but human dignity stops at borders.\n\nWe declare a new political resolve in this age of contradiction.",
+    "title": "Declaración Fundacional Internacional",
+    "subtitle": "Una Declaración Hacia la Solidaridad Global",
+    "slogan": "¡Ciudadanos del mundo, uníos!",
+    "intro": "Tenemos ciudadanía, pero las ansiedades de la vida no preguntan por fronteras, y la guerra, el clima y la desigualdad no exigen pasaportes.\n\nEl mundo de hoy está conectado como uno solo, pero la justicia permanece fragmentada; la riqueza se mueve libremente, pero la dignidad humana se detiene en las fronteras.\n\nDeclaramos una nueva determinación política en esta era de contradicción.",
     "sections": {
       "section1": {
-        "title": "1. The World Is Connected, But Responsibility Is Not",
-        "content": "War begins at borders, but suffering spreads across the world. Climate crisis is not a problem of any particular nation, yet its damage always concentrates on the poorest.\n\nMilitary spending expands, but peace has not been a subject of investment; under the name of national interest, citizens' lives have been reduced to calculations.\n\nToday's international order speaks of peace yet is maintained through war, speaks of human rights yet neglects inequality.\n\nFurther silence in this order is complicity."
+        "title": "1. El Mundo Está Conectado, Pero la Responsabilidad No",
+        "content": "La guerra comienza en las fronteras, pero el sufrimiento se extiende por todo el mundo. La crisis climática no es un problema de ninguna nación en particular, pero su daño siempre se concentra en los más pobres.\n\nEl gasto militar se expande, pero la paz no ha sido objeto de inversión; en nombre del interés nacional, las vidas de los ciudadanos se han reducido a cálculos.\n\nEl orden internacional actual habla de paz pero se mantiene mediante la guerra, habla de derechos humanos pero descuida la desigualdad.\n\nMás silencio en este orden es complicidad."
       },
       "section2": {
-        "title": "2. War Is the Result of Failed Politics",
-        "content": "War is not an inevitable natural disaster. It is the result of politics that failed to negotiate, economics that failed to distribute, and an international order that abandoned dignity.\n\nAs long as we believe that increasing weapons strengthens security, peace will always be postponed to the next generation.\n\nThe Happy Society Party declares:\nTrue security comes not from the size of military power, but from conditions that make people not want war.\nPolitics that speaks of peace while neglecting poverty, discrimination, resource monopoly, and climate destruction is false."
+        "title": "2. La Guerra Es el Resultado de una Política Fallida",
+        "content": "La guerra no es un desastre natural inevitable. Es el resultado de una política que no supo negociar, una economía que no supo distribuir y un orden internacional que abandonó la dignidad.\n\nMientras creamos que aumentar las armas fortalece la seguridad, la paz siempre se pospondrá a la próxima generación.\n\nEl Partido de la Sociedad Feliz declara:\nLa verdadera seguridad no proviene del tamaño del poder militar, sino de las condiciones que hacen que la gente no quiera la guerra.\nLa política que habla de paz mientras descuida la pobreza, la discriminación, el monopolio de recursos y la destrucción climática es falsa."
       },
       "section3": {
-        "title": "3. Global Inequality Is a Global Problem",
-        "content": "Today's world is structured so that inequality between nations and inequality within nations reinforce each other.\n\nTransnational capital crosses borders, but labor and rights are tied to borders; platforms and AI integrate the world, but profits concentrate in the hands of a few.\n\nThis inequality is not one nation's policy failure but a global political failure.\nTherefore, solutions must not remain at the national level."
+        "title": "3. La Desigualdad Global Es un Problema Global",
+        "content": "El mundo de hoy está estructurado de manera que la desigualdad entre naciones y la desigualdad dentro de las naciones se refuerzan mutuamente.\n\nEl capital transnacional cruza fronteras, pero el trabajo y los derechos están atados a las fronteras; las plataformas y la IA integran el mundo, pero las ganancias se concentran en manos de unos pocos.\n\nEsta desigualdad no es el fracaso de la política de una nación sino un fracaso político global.\nPor lo tanto, las soluciones no deben quedarse a nivel nacional."
       },
       "section4": {
-        "title": "4. Climate Crisis Is Humanity's Common Survival Issue",
-        "content": "The climate crisis is not an environmental problem but a matter of survival, and a matter of justice.\nThe nations and corporations that destroyed the climate are separate, but the damage is borne by future generations and impoverished regions.\n\nThe Happy Society Party says:\nResponsibility for the climate crisis lies not in individual restraint but in the transformation of political and industrial structures.\nWithout global carbon reduction, public management of renewable energy, and international solidarity and compensation for climate damage, no nation can be safe."
+        "title": "4. La Crisis Climática Es un Problema de Supervivencia Común de la Humanidad",
+        "content": "La crisis climática no es un problema ambiental sino una cuestión de supervivencia, y una cuestión de justicia.\nLas naciones y corporaciones que destruyeron el clima son diferentes, pero el daño lo soportan las generaciones futuras y las regiones empobrecidas.\n\nEl Partido de la Sociedad Feliz dice:\nLa responsabilidad de la crisis climática no radica en la restricción individual sino en la transformación de las estructuras políticas e industriales.\nSin reducción global de carbono, gestión pública de energías renovables, y solidaridad y compensación internacional por los daños climáticos, ninguna nación puede estar segura."
       },
       "section5": {
-        "title": "5. Technology Connects Humanity, But Control Has Disappeared",
-        "content": "AI and automation have spread beyond borders, but their control and responsibility remain vacant.\nThe more technology replaces labor, the more unstable citizens' lives have become, and international norms have not kept pace with technology's speed.\n\nThe Happy Society Party declares:\nTechnology should not be the exclusive property of nations or corporations but humanity's common asset.\nInternational democratic control over AI, data, and platforms and technology norms centered on labor and human rights are needed right now."
+        "title": "5. La Tecnología Conecta a la Humanidad, Pero el Control Ha Desaparecido",
+        "content": "La IA y la automatización se han extendido más allá de las fronteras, pero su control y responsabilidad permanecen vacantes.\nCuanto más la tecnología reemplaza el trabajo, más inestables se han vuelto las vidas de los ciudadanos, y las normas internacionales no han seguido el ritmo de la tecnología.\n\nEl Partido de la Sociedad Feliz declara:\nLa tecnología no debe ser propiedad exclusiva de naciones o corporaciones sino un activo común de la humanidad.\nEl control democrático internacional sobre la IA, los datos y las plataformas y las normas tecnológicas centradas en el trabajo y los derechos humanos se necesitan ahora mismo."
       },
       "section6": {
-        "title": "6. The Global Alternative Proposed by Happy Society Party",
-        "content": "The Happy Society Party is not a party representing any one nation's interests, but an international progressive party that unites based on citizens' dignity.\n\nWe pursue:\n• International politics that invests in peace, not war\n• A world economy based on cooperation, not competition\n• Development models that prioritize life's safety over growth\n• International norms that treat climate and technology as public responsibilities\n• Democracy where citizens unite beyond nationality\n\nHappiness cannot be confined within borders, and dignity cannot be divided by passports."
+        "title": "6. La Alternativa Global Propuesta por el Partido de la Sociedad Feliz",
+        "content": "El Partido de la Sociedad Feliz no es un partido que represente los intereses de una sola nación, sino un partido progresista internacional que se une basándose en la dignidad de los ciudadanos.\n\nBuscamos:\n• Política internacional que invierta en la paz, no en la guerra\n• Una economía mundial basada en la cooperación, no en la competencia\n• Modelos de desarrollo que prioricen la seguridad de la vida sobre el crecimiento\n• Normas internacionales que traten el clima y la tecnología como responsabilidades públicas\n• Democracia donde los ciudadanos se unan más allá de la nacionalidad\n\nLa felicidad no puede estar confinada dentro de las fronteras, y la dignidad no puede dividirse por pasaportes."
       }
     },
     "conclusion": {
-      "title": "Conclusion — Our International Declaration",
-      "content": "Citizens of the world, unite!\n\nThis declaration is not for any one nation but a declaration for surviving together.\n\nTo end the age of war, to transcend the order of inequality, to stop the time of climate collapse, to prevent technology from dominating humans, we begin a new progressive politics.\n\nThe Happy Society Party will respond to problems that cross borders through solidarity that crosses borders.\n\nWe do not ask, \"Which nation is strong?\"\nWe ask, \"Can humanity live together?\"\n\nThe declaration to answer this question through politics—that is the Happy Society Party's International Founding Declaration."
+      "title": "Conclusión — Nuestra Declaración Internacional",
+      "content": "¡Ciudadanos del mundo, uníos!\n\nEsta declaración no es para ninguna nación sino una declaración para sobrevivir juntos.\n\nPara terminar la era de la guerra, trascender el orden de la desigualdad, detener el tiempo del colapso climático, evitar que la tecnología domine a los humanos, comenzamos una nueva política progresista.\n\nEl Partido de la Sociedad Feliz responderá a los problemas que cruzan fronteras a través de la solidaridad que cruza fronteras.\n\nNo preguntamos, \"¿Qué nación es fuerte?\"\nPreguntamos, \"¿Puede la humanidad vivir junta?\"\n\nLa declaración para responder a esta pregunta a través de la política—esa es la Declaración Fundacional Internacional del Partido de la Sociedad Feliz."
     }
   },
   "platform": {
-    "title": "International Common Platform",
-    "subtitle": "International Common Platform for Progressive Parties",
+    "title": "Plataforma Común Internacional",
+    "subtitle": "Plataforma Común Internacional para Partidos Progresistas",
     "preamble": {
-      "title": "Preamble",
-      "content": "Citizens of the world, unite!\n\nToday, humanity stands before problems that cross borders. War and peace, climate crisis, technology control, inequality, and the retreat of democracy are problems that cannot be solved by any one nation's power alone.\n\nYet politics remains confined within borders, and citizens' suffering is pushed to the periphery of the international order.\n\nWe declare the common foundation of a new progressive politics where citizens of each country become the protagonists, each country's party decides autonomously, and solidarity is global.\n\nThis platform is not a document for creating one central party, but common values and principles of action that local parties in each country can share."
+      "title": "Preámbulo",
+      "content": "¡Ciudadanos del mundo, uníos!\n\nHoy, la humanidad se enfrenta a problemas que cruzan fronteras. La guerra y la paz, la crisis climática, el control tecnológico, la desigualdad y el retroceso de la democracia son problemas que no pueden ser resueltos por el poder de una sola nación.\n\nSin embargo, la política permanece confinada dentro de las fronteras, y el sufrimiento de los ciudadanos es empujado a la periferia del orden internacional.\n\nDeclaramos el fundamento común de una nueva política progresista donde los ciudadanos de cada país se convierten en los protagonistas, el partido de cada país decide autónomamente, y la solidaridad es global.\n\nEsta plataforma no es un documento para crear un partido central, sino valores comunes y principios de acción que los partidos locales de cada país pueden compartir."
     },
     "articles": {
       "article1": {
-        "title": "Article 1 — Human Dignity Transcends Borders",
-        "content": "All human beings have the right to live with dignity regardless of nationality, race, gender, religion, class, or immigration status.\n\nCitizens' dignity cannot be a means for national interest or economic growth.\n\nParties in each country place the standard of policy and institutions not on efficiency but on human life and safety."
+        "title": "Artículo 1 — La Dignidad Humana Trasciende las Fronteras",
+        "content": "Todos los seres humanos tienen derecho a vivir con dignidad independientemente de su nacionalidad, raza, género, religión, clase o estatus migratorio.\n\nLa dignidad de los ciudadanos no puede ser un medio para el interés nacional o el crecimiento económico.\n\nLos partidos de cada país colocan el estándar de políticas e instituciones no en la eficiencia sino en la vida humana y la seguridad."
       },
       "article2": {
-        "title": "Article 2 — War Is the Failure of Politics, Peace Is the Responsibility of Politics",
-        "content": "War is not inevitable fate but the accumulated result of inequality, exclusion, and diplomatic failure.\n\nTrue security comes not from military buildup but from politics that removes the conditions for war.",
+        "title": "Artículo 2 — La Guerra Es el Fracaso de la Política, la Paz Es la Responsabilidad de la Política",
+        "content": "La guerra no es un destino inevitable sino el resultado acumulado de la desigualdad, la exclusión y el fracaso diplomático.\n\nLa verdadera seguridad no proviene del fortalecimiento militar sino de la política que elimina las condiciones para la guerra.",
         "principles": [
-          "Minimization of use of force",
-          "Priority on diplomacy, mediation, and multilateral cooperation",
-          "Opposition to arms race",
-          "Protection of civilians and compliance with international human rights standards"
+          "Minimización del uso de la fuerza",
+          "Prioridad a la diplomacia, la mediación y la cooperación multilateral",
+          "Oposición a la carrera armamentista",
+          "Protección de civiles y cumplimiento de los estándares internacionales de derechos humanos"
         ]
       },
       "article3": {
-        "title": "Article 3 — Climate Crisis Is a Matter of Survival and Justice",
-        "content": "The climate crisis is not an environmental issue but humanity's common survival crisis.\n\nResponsibility for the climate crisis lies not with individuals but with industrial structures and political choices.",
+        "title": "Artículo 3 — La Crisis Climática Es una Cuestión de Supervivencia y Justicia",
+        "content": "La crisis climática no es un problema ambiental sino la crisis de supervivencia común de la humanidad.\n\nLa responsabilidad de la crisis climática no recae en los individuos sino en las estructuras industriales y las elecciones políticas.",
         "principles": [
-          "Legally binding carbon reduction targets",
-          "Strengthening the public nature of renewable energy",
-          "International solidarity and compensation for climate damage",
-          "Protection of workers and regions in the transition process"
+          "Objetivos de reducción de carbono legalmente vinculantes",
+          "Fortalecimiento de la naturaleza pública de las energías renovables",
+          "Solidaridad y compensación internacional por daños climáticos",
+          "Protección de trabajadores y regiones en el proceso de transición"
         ]
       },
       "article4": {
-        "title": "Article 4 — Joint Response to Global Inequality",
-        "content": "Transnational capital and platforms cross borders, but labor and rights remain restricted.\n\nInequality is both a domestic issue and a global structural problem.",
+        "title": "Artículo 4 — Respuesta Conjunta a la Desigualdad Global",
+        "content": "El capital transnacional y las plataformas cruzan fronteras, pero el trabajo y los derechos permanecen restringidos.\n\nLa desigualdad es tanto un problema doméstico como un problema estructural global.",
         "principles": [
-          "Fair taxation and international cooperation to prevent tax avoidance",
-          "Establishing international minimum standards for labor rights",
-          "Universal access to social safety nets"
+          "Tributación justa y cooperación internacional para prevenir la evasión fiscal",
+          "Establecimiento de estándares mínimos internacionales para los derechos laborales",
+          "Acceso universal a las redes de seguridad social"
         ]
       },
       "article5": {
-        "title": "Article 5 — Technology Is Humanity's Asset and Must Be Democratically Controlled",
-        "content": "AI, data, and automation technologies are public technologies that affect all of humanity's life.\n\nThe benefits of technological development must not be concentrated in a few corporations and nations.",
+        "title": "Artículo 5 — La Tecnología Es un Activo de la Humanidad y Debe Ser Controlada Democráticamente",
+        "content": "La IA, los datos y las tecnologías de automatización son tecnologías públicas que afectan la vida de toda la humanidad.\n\nLos beneficios del desarrollo tecnológico no deben concentrarse en unas pocas corporaciones y naciones.",
         "principles": [
-          "Prohibition of algorithmic discrimination",
-          "Data sovereignty and personal information protection",
-          "Labor protection from technological transition",
-          "Establishing international norms for AI and platforms"
+          "Prohibición de la discriminación algorítmica",
+          "Soberanía de datos y protección de información personal",
+          "Protección laboral ante la transición tecnológica",
+          "Establecimiento de normas internacionales para la IA y las plataformas"
         ]
       },
       "article6": {
-        "title": "Article 6 — Democracy Must Be Everyday Life Beyond Elections",
-        "content": "Democracy does not end with voting.\n\nCitizens are not consumers or spectators but continuous protagonists of politics.",
+        "title": "Artículo 6 — La Democracia Debe Ser Vida Cotidiana Más Allá de las Elecciones",
+        "content": "La democracia no termina con el voto.\n\nLos ciudadanos no son consumidores o espectadores sino protagonistas continuos de la política.",
         "principles": [
-          "Expansion of citizen participation",
-          "Transparent decision-making",
-          "Decentralization of power and accountability",
-          "Firm rejection of hatred and discrimination"
+          "Expansión de la participación ciudadana",
+          "Toma de decisiones transparente",
+          "Descentralización del poder y rendición de cuentas",
+          "Rechazo firme del odio y la discriminación"
         ]
       },
       "article7": {
-        "title": "Article 7 — Solidarity Is Autonomous Cooperation, Not Obedience",
-        "content": "This platform does not deny each country's history and conditions.\n\nEach local party autonomously organizes policies and organizations suited to its country's reality based on this common platform.\n\nInternational solidarity is not a command system but a network of experience sharing and joint action."
+        "title": "Artículo 7 — La Solidaridad Es Cooperación Autónoma, No Obediencia",
+        "content": "Esta plataforma no niega la historia y las condiciones de cada país.\n\nCada partido local organiza autónomamente políticas y organizaciones adecuadas a la realidad de su país basándose en esta plataforma común.\n\nLa solidaridad internacional no es un sistema de mando sino una red de intercambio de experiencias y acción conjunta."
       }
     },
     "appendix": {
-      "title": "Appendix — Principles of the International Progressive Party Network",
+      "title": "Anexo — Principios de la Red Internacional de Partidos Progresistas",
       "principles": [
-        "We do not create a single central power.",
-        "We respect parties where citizens of each country are the protagonists.",
-        "We treat war, inequality, climate collapse, and technology monopoly as common political agendas.",
-        "We organize joint statements, joint campaigns, and joint actions when needed."
+        "No creamos un poder central único.",
+        "Respetamos a los partidos donde los ciudadanos de cada país son los protagonistas.",
+        "Tratamos la guerra, la desigualdad, el colapso climático y el monopolio tecnológico como agendas políticas comunes.",
+        "Organizamos declaraciones conjuntas, campañas conjuntas y acciones conjuntas cuando sea necesario."
       ]
     },
     "conclusion": {
-      "title": "Conclusion",
-      "content": "Happiness is not the privilege of any one nation, and dignity cannot be divided by borders.\n\nThis international platform is not a completed answer but a promise to create answers together.\n\nCitizens of each country, progressive parties of each country, let us unite in solidarity before our common responsibility while respecting each other's differences.\n\nCitizens of the world, unite!"
+      "title": "Conclusión",
+      "content": "La felicidad no es el privilegio de una sola nación, y la dignidad no puede dividirse por fronteras.\n\nEsta plataforma internacional no es una respuesta completa sino una promesa de crear respuestas juntos.\n\nCiudadanos de cada país, partidos progresistas de cada país, unámonos en solidaridad ante nuestra responsabilidad común mientras respetamos las diferencias de cada uno.\n\n¡Ciudadanos del mundo, uníos!"
     }
   },
   "chapters": {
-    "title": "Global Chapters",
-    "subtitle": "Join or start a chapter in your country",
-    "established": "Established",
-    "forming": "Forming",
-    "startChapter": "Start a Chapter",
-    "startChapterDesc": "Don't see your country? You can help bring the Happy Society movement to your nation.",
-    "learnHow": "Learn How",
+    "title": "Capítulos Globales",
+    "subtitle": "Únete o inicia un capítulo en tu país",
+    "established": "Establecido",
+    "forming": "En Formación",
+    "startChapter": "Iniciar un Capítulo",
+    "startChapterDesc": "¿No ves tu país? Puedes ayudar a llevar el movimiento Sociedad Feliz a tu nación.",
+    "learnHow": "Aprende Cómo",
     "korea": {
-      "name": "South Korea",
-      "status": "Founding Chapter",
-      "description": "The birthplace of the Happy Society movement, leading the way for progressive politics in East Asia."
+      "name": "Corea del Sur",
+      "status": "Capítulo Fundador",
+      "description": "El lugar de nacimiento del movimiento Sociedad Feliz, liderando el camino de la política progresista en Asia Oriental."
     }
   },
   "join": {
-    "title": "Join the Movement",
-    "subtitle": "Together, we can build a happier world",
+    "title": "Únete al Movimiento",
+    "subtitle": "Juntos, podemos construir un mundo más feliz",
     "individual": {
-      "title": "Individual Membership",
-      "description": "Support our movement and connect with like-minded progressives worldwide.",
+      "title": "Membresía Individual",
+      "description": "Apoya nuestro movimiento y conecta con progresistas afines en todo el mundo.",
       "benefits": [
-        "Access to international events and conferences",
-        "Connect with members across the globe",
-        "Receive updates on global progressive movements",
-        "Participate in policy discussions"
+        "Acceso a eventos y conferencias internacionales",
+        "Conecta con miembros de todo el mundo",
+        "Recibe actualizaciones sobre movimientos progresistas globales",
+        "Participa en discusiones de políticas"
       ],
-      "button": "Join as Individual"
+      "button": "Unirse como Individuo"
     },
     "chapter": {
-      "title": "Start a Chapter",
-      "description": "Bring the Happy Society movement to your country and build a progressive party.",
+      "title": "Iniciar un Capítulo",
+      "description": "Lleva el movimiento Sociedad Feliz a tu país y construye un partido progresista.",
       "steps": [
-        "Connect with our international coordination team",
-        "Build a founding committee in your country",
-        "Develop localized platform and declaration",
-        "Launch your national Happy Society party"
+        "Conecta con nuestro equipo de coordinación internacional",
+        "Construye un comité fundador en tu país",
+        "Desarrolla una plataforma y declaración localizada",
+        "Lanza tu partido nacional Sociedad Feliz"
       ],
-      "button": "Start a Chapter"
+      "button": "Iniciar un Capítulo"
     },
     "partner": {
-      "title": "Partner Organization",
-      "description": "Collaborate with us as a progressive party, union, or civil society organization.",
-      "button": "Become a Partner"
+      "title": "Organización Asociada",
+      "description": "Colabora con nosotros como partido progresista, sindicato u organización de la sociedad civil.",
+      "button": "Convertirse en Socio"
     }
   },
   "footer": {
-    "tagline": "Building a world where everyone lives with dignity",
-    "about": "About",
-    "aboutUs": "About Us",
-    "declaration": "Declaration",
-    "platform": "Platform",
-    "getInvolved": "Get Involved",
-    "join": "Join Us",
-    "chapters": "Find a Chapter",
-    "donate": "Donate",
-    "connect": "Connect",
-    "contact": "Contact",
-    "newsletter": "Newsletter",
-    "press": "Press",
-    "copyright": "© 2024 Happy Society International. All rights reserved.",
-    "solidarity": "In solidarity with progressive movements worldwide."
+    "tagline": "Construyendo un mundo donde todos vivan con dignidad",
+    "about": "Acerca de",
+    "aboutUs": "Sobre Nosotros",
+    "declaration": "Declaración",
+    "platform": "Plataforma",
+    "getInvolved": "Participa",
+    "join": "Únete",
+    "chapters": "Encuentra un Capítulo",
+    "donate": "Donar",
+    "connect": "Conectar",
+    "contact": "Contacto",
+    "anthem": "Himno",
+    "newsletter": "Boletín",
+    "press": "Prensa",
+    "copyright": "© 2024 Sociedad Feliz Internacional. Todos los derechos reservados.",
+    "solidarity": "En solidaridad con los movimientos progresistas de todo el mundo."
   },
   "cta": {
-    "title": "Ready to Join the Movement?",
-    "description": "Together, we can build societies where everyone—not just the wealthy and powerful—can live with dignity and happiness.",
-    "button": "Get Started"
+    "title": "¿Listo para Unirte al Movimiento?",
+    "description": "Juntos, podemos construir sociedades donde todos—no solo los ricos y poderosos—puedan vivir con dignidad y felicidad.",
+    "button": "Comenzar"
+  },
+  "anthem": {
+    "title": "Himno de Solidaridad Internacional",
+    "subtitle": "¡Ciudadanos del Mundo, Uníos!",
+    "playButton": "Reproducir",
+    "pauseButton": "Pausar",
+    "lyrics": "Las fronteras fueron trazadas en el mapa\nPero en nuestras vidas no había líneas\nLas llamas de la guerra, los vientos del clima\nLa pobreza y el miedo no preguntaron por nacionalidad\n\nPersonas desplazadas en nombre del crecimiento\nRostros borrados en nombre de la competencia\nAlgunos poseían demasiado\nMientras que para otros, sobrevivir se convirtió en su único sueño\n\n¡Ciudadanos del mundo, uníos!\nEn un nombre más grande que nuestros miedos\n¡Ciudadanos del mundo, uníos!\nPorque la dignidad cruza todas las fronteras\n\nPor un hoy sin guerra\nPor un mundo donde la felicidad no sea un privilegio\nCantamos aquí, juntos\nPrometiendo nunca soltar las manos del otro"
   }
 }

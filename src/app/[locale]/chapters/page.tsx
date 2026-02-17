@@ -61,7 +61,7 @@ export default function ChaptersPage() {
   // Static forming countries for display (in case no DB data)
   const staticFormingCountries = [
     { country: 'Japan', flag: '🇯🇵' },
-    { country: 'Taiwan', flag: '🇹🇼' },
+    { country: 'China', flag: '🇨🇳' },
     { country: 'USA', flag: '🇺🇸' },
     { country: 'Germany', flag: '🇩🇪' },
     { country: 'Spain', flag: '🇪🇸' },
