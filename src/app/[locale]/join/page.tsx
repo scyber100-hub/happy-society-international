@@ -76,7 +76,7 @@ export default function JoinPage() {
 
     try {
       // For chapter applications, we send an email notification
-      const mailtoLink = `mailto:chapters@happysociety.international?subject=Chapter Application: ${chapterForm.countryName}&body=Country: ${chapterForm.countryName}%0AContact: ${chapterForm.leaderName}%0AEmail: ${chapterForm.contactEmail}%0A%0ADescription:%0A${encodeURIComponent(chapterForm.description)}`;
+      const mailtoLink = `mailto:happysociety.international@gmail.com?subject=Chapter Application: ${chapterForm.countryName}&body=Country: ${chapterForm.countryName}%0AContact: ${chapterForm.leaderName}%0AEmail: ${chapterForm.contactEmail}%0A%0ADescription:%0A${encodeURIComponent(chapterForm.description)}`;
       window.location.href = mailtoLink;
       setIsSuccess(true);
     } catch (err) {
@@ -93,7 +93,7 @@ export default function JoinPage() {
     setError(null);
 
     try {
-      const mailtoLink = `mailto:partners@happysociety.international?subject=Partnership Application: ${partnerForm.organizationName}&body=Organization: ${partnerForm.organizationName}%0AType: ${partnerForm.organizationType}%0ACountry: ${partnerForm.countryCode}%0AContact: ${partnerForm.contactPerson}%0AEmail: ${partnerForm.contactEmail}%0AWebsite: ${partnerForm.website}%0A%0ADescription:%0A${encodeURIComponent(partnerForm.description)}`;
+      const mailtoLink = `mailto:happysociety.international@gmail.com?subject=Partnership Application: ${partnerForm.organizationName}&body=Organization: ${partnerForm.organizationName}%0AType: ${partnerForm.organizationType}%0ACountry: ${partnerForm.countryCode}%0AContact: ${partnerForm.contactPerson}%0AEmail: ${partnerForm.contactEmail}%0AWebsite: ${partnerForm.website}%0A%0ADescription:%0A${encodeURIComponent(partnerForm.description)}`;
       window.location.href = mailtoLink;
       setIsSuccess(true);
     } catch (err) {
@@ -234,10 +234,10 @@ export default function JoinPage() {
               <Mail className="w-8 h-8 text-[var(--primary)] mb-4" />
               <h3 className="font-bold text-[var(--gray-900)] mb-2">Email</h3>
               <a
-                href="mailto:hello@happysociety.international"
+                href="mailto:happysociety.international@gmail.com"
                 className="text-[var(--primary)] hover:underline"
               >
-                hello@happysociety.international
+                happysociety.international@gmail.com
               </a>
             </div>
             <div className="bg-white rounded-[var(--radius-lg)] p-6 border border-[var(--gray-200)]">

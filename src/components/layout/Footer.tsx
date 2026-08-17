@@ -143,10 +143,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:contact@happysociety.international"
+                  href="mailto:happysociety.international@gmail.com"
                   className="hover:text-white transition-colors"
                 >
-                  contact@happysociety.international
+                  happysociety.international@gmail.com
                 </a>
               </li>
             </ul>
